@@ -1,4 +1,4 @@
-('C:\\Users\\Peerapat.r\\Desktop\\Blank Tag\\build\\Blanktag\\PYZ-00.pyz',
+('C:\\Users\\Peerapat.r\\Desktop\\BlankTag\\build\\Blanktag\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Peerapat.r\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),

@@ -1,0 +1,10 @@
+{
+    "BlankTag": {
+        "prefix": "B",
+        "digits": 7
+    },
+    "NC Tag": {
+        "prefix": "NC",
+        "digits": 7
+    }
+}
